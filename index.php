@@ -978,8 +978,7 @@
                                     I recently had the pleasure of experiencing outstanding service from foodShop.
                                     From the moment I reached out, their team went above and beyond to ensure my needs were not only met but exceeded.
                                     The level of professionalism and attention to detail was truly remarkable.The staff at [Company Name] were not only
-                                    knowledgeable but also genuinely invested in providing a solution tailored to my specific requirements.
-                                    The communication was prompt and clear, making the entire process seamless.
+                                    knowledgeable but also genuinely invested in providing a solution tailored to my specific requirements. 
                                 </p>
                             </div>
                         </div>
